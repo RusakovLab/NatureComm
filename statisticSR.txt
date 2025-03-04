@@ -1,0 +1,12 @@
+% location:
+   np = 1000
+   Trials=10
+   MaxProbAdhesive =1.0
+   TimeINsideAdhesiveZone =1.00 %0.001000
+   ProbabilityofAstrocytes =0.1
+   Numbersphere = 1400;
+   UnboundProb = 0.0; % 1  unbound
+   % 0.2	1400 26 January 2023
+   % 0.3	1120
+   % 0.4	850
+   % 0.5	600
